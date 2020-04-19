@@ -15,7 +15,7 @@ Exemplo de dados exportados podem ser consultados no arquivo `scraper_fundamentu
 
 ### Scraper Suno Analítica
 
-Scraper para ler/coletar histórico de dados fundamentalistas (demonstração de resultados, balanço patrimonial e demonstrativo de fluxo de caixa), conforme `scraper_suno_analitica.ipynb`.
+Scraper para ler/coletar histórico de dados fundamentalistas (demonstração de resultados, balanço patrimonial e demonstrativo de fluxo de caixa) apresentados no site https://www.sunoresearch.com.br/acoes/, possibilitando uma análise fundamentalista automatizada, conforme `scraper_suno_analitica.ipynb`.
 
 **Atenção:** Futuramento poderá ser implementada a leitura de dados dos indicadores históricos.  
 Infelizmente, muitos destes indicadores são calculados considerando a quantidade de ações, algo que a plataforma está calculando erroneamente (o cálculo na data de hoje: 18 de abril de 2020, é feito considerando somente a quantidade de ações do ticker consultado, e não sobre todas as ações existentes da empresa *ON + PN*, acarretando assim na apresentação de informações não incorretas).
