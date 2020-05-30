@@ -3,7 +3,12 @@
 
 ### Sazonalidade Milho
 
-Análise de sazonalidade do milho através dos preços médios diários apresentados durante um período de 5 anos, conforme `sazonalidade_dia_sequencial_milho.ipynb`.
+Análise de sazonalidade intra-anual do milho através dos preços médios diários apresentados durante um período de 5 anos, conforme `sazonalidade_dia_sequencial_milho.ipynb`.
+
+
+### Sazonalidade Dólar
+
+Análise de sazonalidade intra-mensal do dolar através dos preços médios diários apresentados durante um período de 5 anos, conforme `sazonalidade_intra_mensal_dolar.ipynb`.
 
 
 ### Scraper Fundamentus
