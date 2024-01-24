@@ -1,0 +1,5 @@
+# Virtual Environment path
+.venv
+
+# PyCache Folders
+**/__pycache__/
