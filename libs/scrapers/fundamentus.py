@@ -2,8 +2,10 @@ import requests
 
 from lxml import html
 
-import scraper
-import utils
+from libs.scrapers import (
+    scraper,
+    utils,
+)
 
 # Constants
 REQUEST_HEADERS = {
@@ -37,10 +39,10 @@ class StockListScraper(scraper.Scraper):
         data = {}
 
         for tr in tbody.xpath("tr"):
-            data = [
+            body_data = [
                 utils.convert_data(i.text_content().strip()) for i in tr.xpath("td")
             ]
-            stock_data = dict(zip(headers, data))
+            stock_data = dict(zip(headers, body_data))
             tick = stock_data["Papel"]
             data[tick] = stock_data
 
