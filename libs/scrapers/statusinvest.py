@@ -4,10 +4,14 @@ import requests
 
 from lxml import html
 
-from libs.scrapers import (
-    scraper,
-    utils,
-)
+try:
+    from libs.scrapers import (
+        scraper,
+        utils,
+    )
+except:
+    import scraper
+    import utils
 
 # Constants
 REQUEST_HEADERS = {
@@ -42,12 +46,11 @@ class StockListScraper(scraper.Scraper):
 
 class StockExtraInfosScraper(scraper.Scraper):
     def __init__(self, stock_ticker: str):
-        self.ticket = stock_ticker
+        self.ticker = stock_ticker
 
     def get_parsed_data(self) -> dict:
-        # read list of stock details from fundamentus website
         html_data = requests.get(
-            f"https://statusinvest.com.br/acoes/{self.ticket}",
+            f"https://statusinvest.com.br/acoes/{self.ticker}",
             headers=REQUEST_HEADERS,
         )
 
@@ -85,12 +88,11 @@ class StockExtraInfosScraper(scraper.Scraper):
 
 class StockHistIndicatorsScraper(scraper.Scraper):
     def __init__(self, stock_ticker: str):
-        self.ticket = stock_ticker
+        self.ticker = stock_ticker
 
     def get_parsed_data(self) -> dict:
-        # read list of stock details from fundamentus website
         json_str = requests.get(
-            f"https://statusinvest.com.br/acao/indicatorhistoricallist?codes={self.ticket}&time=5",
+            f"https://statusinvest.com.br/acao/indicatorhistoricallist?codes={self.ticker}&time=5",
             headers=REQUEST_HEADERS,
         )
 
@@ -105,4 +107,126 @@ class StockHistIndicatorsScraper(scraper.Scraper):
                 if "rank" in rank_data and "value" in rank_data
             }
             for data in list(json_data["data"].values())[0]
+        }
+
+
+class StockHistEarningsScraper(scraper.Scraper):
+    def __init__(self, stock_ticker: str):
+        self.ticker = stock_ticker
+
+    def get_parsed_data(self) -> dict:
+        json_str = requests.get(
+            f"https://statusinvest.com.br/acao/companytickerprovents?ticker={self.ticker}&chartProventsType=2",
+            headers=REQUEST_HEADERS,
+        )
+
+        # parse json data
+        json_data = json.loads(json_str.text)
+
+        # Get earnings per year
+        return {
+            "earnings": {
+                rank_data["rank"]: rank_data["value"]
+                for rank_data in json_data["assetEarningsYearlyModels"]
+                if "rank" in rank_data and "value" in rank_data
+            }
+        }
+
+
+class StockHistPayoutsScraper(scraper.Scraper):
+    def __init__(self, stock_ticker: str):
+        self.ticker = stock_ticker
+
+    def get_parsed_data(self) -> dict:
+        json_str = requests.get(
+            f"https://statusinvest.com.br/acao/payoutresult?code={self.ticker}&type=2",
+            headers=REQUEST_HEADERS,
+        )
+
+        # parse json data
+        json_data = json.loads(json_str.text)
+
+        # Get payout per year
+        return {
+            "payout": {
+                year: json_data["chart"]["series"]["percentual"][idx]["value"]
+                for idx, year in enumerate(json_data["chart"]["category"])
+            }
+        }
+
+
+class StockHistRevenueScraper(scraper.Scraper):
+    def __init__(self, stock_ticker: str):
+        self.ticker = stock_ticker
+
+    def get_parsed_data(self) -> dict:
+        json_str = requests.get(
+            f"https://statusinvest.com.br/acao/getrevenue?code={self.ticker}&type=2&viewType=0",
+            headers=REQUEST_HEADERS,
+        )
+
+        # parse json data
+        json_data = json.loads(json_str.text)
+
+        # Get revenue infos per year
+        return {
+            key: {elem["year"]: elem[key] for elem in json_data}
+            for key in [
+                "receitaLiquida",
+                "despesas",
+                "lucroLiquido",
+            ]
+        }
+
+
+class StockHistMarginsScraper(scraper.Scraper):
+    def __init__(self, stock_ticker: str):
+        self.ticker = stock_ticker
+
+    def get_parsed_data(self) -> dict:
+        json_str = requests.get(
+            f"https://statusinvest.com.br/acao/getmargins?code={self.ticker}&type=2",
+            headers=REQUEST_HEADERS,
+        )
+
+        # parse json data
+        json_data = json.loads(json_str.text)
+
+        # Get margins infos per year
+        return {
+            key: {elem["year"]: elem[key] for elem in json_data}
+            for key in [
+                "margemBruta",
+                "margemEbitda",
+                "margemEbit",
+                "margemLiquida",
+            ]
+        }
+
+
+class StockHistActivesAndPassivesScraper(scraper.Scraper):
+    def __init__(self, stock_ticker: str):
+        self.ticker = stock_ticker
+
+    def get_parsed_data(self) -> dict:
+        json_str = requests.get(
+            f"https://statusinvest.com.br/acao/getbsactivepassivechart?code={self.ticker}&type=2",
+            headers=REQUEST_HEADERS,
+        )
+
+        # parse json data
+        json_data = json.loads(json_str.text)
+
+        # Get margins infos per year
+        return {
+            key: {elem["year"]: elem[key] for elem in json_data}
+            for key in [
+                "ativoTotal",
+                "ativoCirculante",
+                "ativoNaoCirculante",
+                "passivoTotal",
+                "passivoCirculante",
+                "passivoNaoCirculante",
+                "patrimonioLiquido",
+            ]
         }
