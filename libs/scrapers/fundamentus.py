@@ -2,10 +2,14 @@ import requests
 
 from lxml import html
 
-from libs.scrapers import (
-    scraper,
-    utils,
-)
+try:
+    from libs.scrapers import (
+        scraper,
+        utils,
+    )
+except:
+    import scraper
+    import utils
 
 # Constants
 REQUEST_HEADERS = {
@@ -51,12 +55,12 @@ class StockListScraper(scraper.Scraper):
 
 class StockDetailsScraper(scraper.Scraper):
     def __init__(self, stock_ticker: str):
-        self.ticket = stock_ticker
+        self.ticker = stock_ticker
 
     def get_parsed_data(self) -> dict:
         # read list of stock details from fundamentus website
         html_data = requests.get(
-            f"http://www.fundamentus.com.br/detalhes.php?papel={self.ticket}",
+            f"http://www.fundamentus.com.br/detalhes.php?papel={self.ticker}",
             headers=REQUEST_HEADERS,
         )
 
