@@ -149,7 +149,7 @@ class StockHistPayoutsScraper(scraper.Scraper):
         # Get payout per year
         return {
             "payout": {
-                year: json_data["chart"]["series"]["percentual"][idx]["value"]
+                int(year): json_data["chart"]["series"]["percentual"][idx]["value"]
                 for idx, year in enumerate(json_data["chart"]["category"])
             }
         }
