@@ -48,6 +48,7 @@ class StockInfosScraper(scraper.Scraper):
         free_float = " - ".join([elem.text_content() for elem in free_float_divs])
 
         return {
+            "Ticker": self.ticker,
             "Nome da Empresa": company_name,
             "Nota dos Usuários": users_score,
             "Segmento de Listagem": b3_segment,
