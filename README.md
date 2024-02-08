@@ -27,3 +27,7 @@ Exemplo de dados exportados podem ser consultados no arquivo `outputs/fundamentu
 ### Fundamentei
 
 Script de leitura de dados das empresas disponíveis no site http://fundamentei.com.br/, viabilizando filtragem de empresas baseados nas informações de 'segmento de listagem', 'Tag Along por tipo de ações', 'Free Float por tipo de ação' e também pelas 'notas de usuários' da plataforma, conforme `notebooks/fundamentei.ipynb`.  
+
+### Stocks Filter and Pre Analysis
+
+Script faz leitura dos arquivos resultantes dos scripts 'Fundamentus', 'Status Invest' e 'Fundamentei', realizando filtros e pré-analises automatizadas baseadas em parametros.
