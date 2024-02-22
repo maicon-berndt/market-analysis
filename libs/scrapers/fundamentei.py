@@ -34,6 +34,9 @@ class StockInfosScraper(scraper.Scraper):
         # get users score info
         users_score = tree.xpath("//h3[contains(.,' / ')]")[0].text
 
+        # get number of user votes info
+        num_of_votes = tree.xpath("//p[contains(.,'voto')]/strong")[0].text
+
         # get listing segment info
         b3_segment = tree.xpath("//h6[text()='Segmento de Listagem']/../span")[
             0
@@ -47,11 +50,20 @@ class StockInfosScraper(scraper.Scraper):
         free_float_divs = tree.xpath("//h6[text()='Free Float']/../div/div")
         free_float = " - ".join([elem.text_content() for elem in free_float_divs])
 
+        # get year when the stock got listed in CVM
+        cvm_year = tree.xpath("//span[contains(.,'Listagem na CVM')]/../div/h1")[0].text
+
+        # get year of the company fundation
+        fund_year = tree.xpath("//span[contains(.,'Fundação')]/../div/h1")[0].text
+
         return {
             "Ticker": self.ticker,
             "Nome da Empresa": company_name,
             "Nota dos Usuários": users_score,
+            "Num. de Votos": num_of_votes,
             "Segmento de Listagem": b3_segment,
             "Tag Along": tag_along,
             "Free Float": free_float,
+            "Listagem CVM": cvm_year,
+            "Fundação": fund_year,
         }

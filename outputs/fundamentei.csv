@@ -1,211 +1,210 @@
-Ticker;Nome da Empresa;Nota dos Usuários;Segmento de Listagem;Tag Along;Free Float
-VALE3;Vale;4.3;Novo Mercado;100% ON;76,48% ON
-PETR4;Petrobras;3.7;Nível 2;100% ON - 100% PN;44,10% ON - 71,31% PN - 55,78% Total
-ITUB4;Banco Itaú;4.9;Nível 1;80% ON - 80% PN;9,08% ON - 87,46% PN - 47,82% Total
-BBDC4;Banco Bradesco;4.2;Nível 1;100% ON - 80% PN;28,49% ON - 97,72% PN - 63,05% Total
-BBAS3;Banco do Brasil;4.7;Novo Mercado;100% ON;49,59% ON
-B3SA3;B3;4.6;Novo Mercado;100% ON;72,14% ON
-PRIO3;PRIO;4.7;Novo Mercado;100% ON;83,24% ON
-RENT3;Localiza;4.3;Novo Mercado;100% ON;79,91% ON
-MGLU3;Magazine Luiza;2.9;Novo Mercado;100% ON;42,60% ON
-HAPV3;Hapvida;2.4;Novo Mercado;100% ON;58,36% ON
-BPAC11;BTG Pactual;4.3;Nível 2;100% ON - 100% PN - 100% UNIT;15,88% ON - 54,00% PN - 30,00% Total
-EQTL3;Equatorial;4.6;Novo Mercado;100% ON;72,34% ON
-ELET3;Eletrobras;2.5;Nível 1;80% ON - 0% PN;44,10% ON - 61,54% PN - 46,22% Total
-ABEV3;Ambev;4.4;Tradicional;80% ON;27,98% ON
-RAIL3;Rumo Log;3.3;Novo Mercado;100% ON;53,14% ON
-LREN3;Lojas Renner;4.2;Novo Mercado;100% ON;89,13% ON
-SBSP3;Sabesp;3.7;Novo Mercado;100% ON;49,74% ON
-MRVE3;MRV Engenharia;2.3;Novo Mercado;100% ON;62,65% ON
-AZUL4;Azul;1.4;Nível 2;100% PN;80,62% PN - 21,40% Total
-ITSA4;Itaúsa;4.3;Nível 1;80% ON - 80% PN;9,56% ON - 74,41% PN - 52,12% Total
-GGBR4;Gerdau;4;Nível 1;100% ON - 100% PN;2,45% ON - 89,22% PN - 59,57% Total
-RADL3;RaiaDrogasil;4.8;Novo Mercado;100% ON;74,06% ON
-SUZB3;Suzano Papel;4.1;Novo Mercado;100% ON;54,19% ON
-WEGE3;Weg;4.9;Novo Mercado;100% ON;35,37% ON
-VBBR3;Vibra Energia;3.2;Novo Mercado;100% ON;71,82% ON
-CIEL3;Cielo;3.5;Novo Mercado;100% ON;40,38% ON
-RRRP3;3R Petroleum;3.2;Novo Mercado;100% ON;70,26% ON
-BBSE3;BB Seguridade;4.4;Novo Mercado;100% ON;33,59% ON
-ARZZ3;Arezzo;4.7;Novo Mercado;100% ON;54,88% ON
-ENGI11;Energisa;3.4;Nível 2;100% ON - 100% PN - 100% UNIT;22,39% ON - 57,05% PN - 43,44% Total
-NTCO3;Natura&Co;1.8;Novo Mercado;100% ON;50,94% ON
-EMBR3;Embraer;2.8;Novo Mercado;100% ON;73,67% ON
-ASAI3;Assaí;4;Novo Mercado;100% ON;78,41% ON
-CMIG4;Cemig;3.9;Nível 1;80% ON - 0% PN;5,91% ON - 77,12% PN - 53,31% Total
-UGPA3;Ultrapar;3.6;Novo Mercado;100% ON;54,88% ON
-CPLE6;Copel;3.8;Nível 2;100% ON - 100% PN - 100% UNIT;57,50% ON - 55,72% PN - 56,50% Total
-SOMA3;Grupo Soma;4.4;Novo Mercado;100% ON;46,71% ON
-JBSS3;JBS;3.5;Novo Mercado;100% ON;30,36% ON
-CSAN3;Cosan;3.9;Novo Mercado;100% ON;63,73% ON
-CYRE3;Cyrela Realty;3.3;Novo Mercado;100% ON;56,50% ON
-CSNA3;CSN;2.8;Tradicional;80% ON;45,31% ON
-USIM5;Usiminas;2.6;Nível 1;80% ON - 0% PN;7,71% ON - 69,04% PN - 34,52% Total
-TOTS3;Totvs;4.4;Novo Mercado;100% ON;67,66% ON
-ALOS3;Allos;3.5;Novo Mercado;100% ON;70,59% ON
-BRFS3;BRF;2.2;Novo Mercado;100% ON;31,51% ON
-VIVT3;Telefônica Brasil;4.2;Tradicional;80% ON - 0% PN;21,41% ON
-TIMS3;TIM;4.1;Novo Mercado;100% ON;33,40% ON
-RDOR3;Rede D'Or;3.2;Novo Mercado;100% ON;24,93% ON
-CRFB3;Carrefour;3.3;Novo Mercado;100% ON;25,21% ON
-HYPE3;Hypera Pharma;4.7;Novo Mercado;100% ON;48,02% ON
-MULT3;Multiplan;4.7;Nível 2;100% ON - 100% PN;40,00% ON
-COGN3;Cogna;2.6;Novo Mercado;100% ON;75,57% ON
-ENEV3;Eneva;3.3;Novo Mercado;100% ON;36,53% ON
-GOAU4;Metalúrgica Gerdau;4.1;Nível 1;100% ON - 100% PN;12,46% ON - 74,23% PN - 52,39% Total
-VIVA3;Vivara;4.7;Novo Mercado;100% ON;54,59% ON
-CCRO3;CCR;3.3;Novo Mercado;100% ON;39,26% ON
-GFSA3;Gafisa;1.6;Novo Mercado;100% ON;55,12% ON
-GOLL4;Gol;1.1;Nível 2;100% PN;51,85% PN - 5,46% Total
-BEEF3;Minerva;3.7;Novo Mercado;100% ON;38,55% ON
-BRAP4;Bradespar;3.4;Nível 1;100% ON - 80% PN;22,08% ON - 67,69% PN - 51,68% Total
-KLBN11;Klabin;4.2;Nível 2;100% ON - 100% PN - 100% UNIT;36,08% ON - 73,65% PN - 59,73% Total
-IRBR3;IRB Brasil;1.6;Novo Mercado;100% ON;67,06% ON
-VAMO3;Vamos;4.5;Novo Mercado;100% ON;39,23% ON
-YDUQ3;Yduqs;3.5;Novo Mercado;100% ON;64,33% ON
-BRKM5;Braskem;1.5;Nível 1;80% ON - 0% PN;2,86% ON - 33,94% PN - 16,33% Total
-CVCB3;CVC;1.5;Novo Mercado;100% ON;76,55% ON
-CPFE3;CPFL Energia;4.4;Novo Mercado;100% ON;16,29% ON
-SMTO3;São Martinho;3.9;Novo Mercado;100% ON;44,10% ON
-EGIE3;Engie;4.8;Novo Mercado;100% ON;21,43% ON
-SANB11;Santander;3.8;Tradicional;100% ON - 100% PN - 100% UNIT;9,10% ON - 10,20% PN - 9,64% Total
-IGTI11;Iguatemi;2.4;Nível 1;100% ON - 100% PN - 100% UNIT;26,03% ON - 76,52% PN - 44,15% Total
-RECV3;PetroReconcavo;3.8;Novo Mercado;100% ON;43,43% ON
-TRPL4;Trans Paulista;3.3;Nível 1;80% ON - 0% PN;0,77% ON - 46,24% PN - 28,44% Total
-POMO4;Marcopolo;3.5;Nível 2;100% ON - 80% PN;18,63% ON - 77,50% PN - 56,26% Total
-LWSA3;Locaweb;3.2;Novo Mercado;100% ON;51,84% ON
-CXSE3;Caixa Seguridade;4.1;Novo Mercado;100% ON;17,25% ON
-MRFG3;Marfrig;2.9;Novo Mercado;100% ON;35,85% ON
-AURE3;Auren;3.9;Novo Mercado;100% ON;30,20% ON
-PETZ3;Petz;3.6;Novo Mercado;100% ON;64,49% ON
-TAEE11;Taesa;4.1;Nível 2;100% ON - 100% PN - 100% UNIT;37,00% ON - 93,55% PN - 61,23% Total
-SLCE3;SLC Agrícola;4.5;Novo Mercado;100% ON;43,86% ON
-MOVI3;Movida;4;Novo Mercado;100% ON;34,24% ON
-CMIN3;CSN Mineração;3.9;Nível 2;100% ON;8,72% ON
-RAIZ4;Raízen;3.1;Nível 2;100% ON - 100% PN;55,92% PN - 7,34% Total
-SMFT3;Smart Fit;3.3;Novo Mercado;100% ON;31,37% ON
-BHIA3;Casas Bahia;1.8;Novo Mercado;100% ON;79,56% ON
-ENAT3;Enauta;3.6;Novo Mercado;100% ON;36,13% ON
-ALPA4;Alpargatas;2.2;Nível 1;80% ON - 0% PN;3,17% ON - 37,45% PN - 20,41% Total
-FLRY3;Fleury;4.6;Novo Mercado;100% ON;44,50% ON
-TEND3;Tenda;1.3;Novo Mercado;100% ON;62,73% ON
-PSSA3;Porto;4.7;Novo Mercado;100% ON;28,34% ON
-STBP3;Santos Brasil;3.5;Novo Mercado;100% ON;47,09% ON
-PCAR3;GPA;2.4;Novo Mercado;100% ON;48,53% ON
-GMAT3;Grupo Mateus;4.2;Novo Mercado;100% ON;15,84% ON
-DIRR3;Direcional;4.1;Novo Mercado;100% ON;62,58% ON
-GGPS3;Grupo GPS;3.8;Novo Mercado;100% ON;58,54% ON
-AESB3;AES Brasil;3;Novo Mercado;100% ON;40,68% ON
-CURY3;Cury Construtora;4;Novo Mercado;100% ON;37,82% ON
-EZTC3;Eztec;4.2;Novo Mercado;100% ON;47,62% ON
-CSMG3;Copasa;4.1;Novo Mercado;100% ON;49,69% ON
-ODPV3;Odontoprev;4.5;Novo Mercado;100% ON;41,80% ON
-ANIM3;Anima;2;Novo Mercado;100% ON;63,70% ON
-SAPR11;Sanepar;4.3;Nível 2;100% ON - 100% PN - 100% UNIT;37,74% ON - 94,89% PN - 75,84% Total
-SBFG3;Grupo SBF;3.5;Novo Mercado;100% ON;40,26% ON
-ONCO3;Oncoclínicas;3.1;Novo Mercado;100% ON;47,42% ON
-SIMH3;Simpar;4.1;Novo Mercado;100% ON;34,97% ON
-INTB3;Intelbras;4.1;Novo Mercado;100% ON;27,38% ON
-ECOR3;Ecorodovias;2.5;Novo Mercado;100% ON;32,95% ON
-MDIA3;M.Dias Branco;3.4;Novo Mercado;100% ON;31,96% ON
-RAPT4;Randoncorp;4.1;Nível 1;80% ON - 80% PN;9,44% ON - 83,08% PN - 57,03% Total
-DXCO3;Dexco;3.2;Novo Mercado;100% ON;33,89% ON
-CEAB3;C&A;3.1;Novo Mercado;100% ON;33,83% ON
-NEOE3;Neoenergia;3.6;Novo Mercado;100% ON;16,08% ON
-LEVE3;Mahle Metal Leve;4.5;Novo Mercado;100% ON;
-BPAN4;Banco Pan;3.1;Nível 1;100% PN;53,27% PN - 25,76% Total
-CBAV3;CBA;2.8;Novo Mercado;100% ON;32,12% ON
-ALUP11;Alupar;4.1;Nível 2;100% ON - 100% PN - 100% UNIT;17,53% ON - 74,33% PN - 35,76% Total
-BRSR6;Banrisul;3.4;Nível 1;100% ON - 100% PN;1,87% ON - 99,46% PN - 50,53% Total
-QUAL3;Qualicorp;2.4;Novo Mercado;100% ON;38,08% ON
-TTEN3;3tentos;4.2;Novo Mercado;100% ON;22,89% ON
-ABCB4;Banco ABC;3.8;Nível 2;100% PN;61,69% PN - 30,73% Total
-AMER3;Americanas;1.2;Novo Mercado;100% ON;69,88% ON
-VVEO3;Viveo;2.9;Novo Mercado;100% ON;37,50% ON
-CASH3;Méliuz;1.4;Novo Mercado;100% ON;79,94% ON
-LJQQ3;Lojas Quero-Quero;2.9;Novo Mercado;100% ON;53,59% ON
-TUPY3;Tupy;4;Novo Mercado;100% ON;36,86% ON
-RCSL3;Recrusul;1;Tradicional;80% ON - 80% PN;14,74% ON - 84,73% PN - 61,28% Total
-JHSF3;JHSF;3.2;Novo Mercado;100% ON;37,00% ON
-VULC3;Vulcabras;3.8;Novo Mercado;100% ON;19,76% ON
-HBSA3;Hidrovias do Brasil;2.7;Novo Mercado;100% ON;50,68% ON
-ORVR3;Orizon;2.4;Novo Mercado;100% ON;38,33% ON
-MYPK3;Iochpe-Maxion;2.9;Novo Mercado;100% ON;64,25% ON
-AMBP3;Ambipar;3.4;Novo Mercado;100% ON;33,34% ON
-IFCM3;Infracommerce;1.6;Novo Mercado;100% ON;68,35% ON
-MTRE3;Mitre Realty;3.4;Novo Mercado;100% ON;49,80% ON
-MILS3;Mills;4.2;Novo Mercado;100% ON;36,97% ON
-OIBR3;Oi;1.2;Nível 1;80% ON - 0% PN;89,99% ON - 88,45% PN - 89,95% Total
-UNIP6;Unipar;3.7;Tradicional;80% ON - 0% PN;14,66% ON - 65,62% PN - 47,81% Total
-SEQL3;Sequoia;1.7;Novo Mercado;100% ON;79,95% ON
-PLPL3;Plano&Plano;3.6;Novo Mercado;100% ON;26,79% ON
-KEPL3;Kepler;4;Novo Mercado;100% ON;57,43% ON
-VLID3;Valid;3.6;Novo Mercado;100% ON;52,65% ON
-GUAR3;Guararapes;3.1;Novo Mercado;100% ON;17,25% ON
-JSLG3;JSL;3.5;Novo Mercado;100% ON;24,49% ON
-RANI3;Irani;4.3;Novo Mercado;100% ON;42,35% ON
-SRNA3;Omega Energia;1.6;Novo Mercado;100% ON;26,95% ON
-ARML3;Armac;3.9;Novo Mercado;100% ON;19,62% ON
-AGRO3;BrasilAgro;4.4;Novo Mercado;100% ON;45,21% ON
-GRND3;Grendene;3.4;Novo Mercado;100% ON;22,50% ON
-POSI3;Positivo;3.6;Novo Mercado;100% ON;51,74% ON
-LIGT3;Light;1.1;Novo Mercado;100% ON;39,78% ON
-ZAMP3;Burger King;1.9;Tradicional;100% ON;30,89% ON
-EVEN3;Even;3;Novo Mercado;100% ON;37,48% ON
-MLAS3;Multilaser;2;Novo Mercado;100% ON;23,78% ON
-FESA4;Ferbasa;3.6;Nível 1;80% ON - 0% PN;1,05% ON - 55,75% PN - 37,52% Total
-SEER3;SER Educacional;3.5;Novo Mercado;100% ON;22,27% ON
-CAML3;Camil;3.3;Novo Mercado;100% ON;28,65% ON
-PGMN3;Pague Menos;3.1;Novo Mercado;100% ON;15,51% ON
-MDNE3;Moura Dubeux;3.6;Novo Mercado;100% ON;39,63% ON
-TGMA3;Tegma;3.5;Novo Mercado;100% ON;27,15% ON
-BMGB4;Banco BMG;2;Nível 1;100% ON - 100% PN;2,13% ON - 55,72% PN - 21,47% Total
-LOGG3;Log CP;3.3;Novo Mercado;100% ON;29,51% ON
-PORT3;Wilson Sons;3.4;Novo Mercado;100% ON;21,52% ON
-JALL3;Jalles Machado;4.1;Novo Mercado;100% ON;33,91% ON
-PNVL3;Grupo Panvel;4.3;Novo Mercado;100% ON;47,73% ON
-BLAU3;Blau Farmacêutica;3.9;Novo Mercado;100% ON;16,63% ON
-FRAS3;Frasle Mobility;4.3;Nível 1;80% ON;12,45% ON
-VITT3;Vittia;3.8;Novo Mercado;100% ON;33,78% ON
-AERI3;Aeris;2.1;Novo Mercado;100% ON;29,10% ON
-BRBI11;BR Partners;3.7;Nível 2;100% ON - 100% PN;19,41% ON - 68,04% PN - 37,08% Total
-TASA4;Taurus Armas;3.7;Nível 2;100% ON - 100% PN;14,25% ON - 78,51% PN - 54,93% Total
-LAVV3;Lavvi;4.3;Novo Mercado;100% ON;21,94% ON
-SOJA3;Boa Safra;4;Novo Mercado;100% ON;30,16% ON
-AZEV4;Azevedo e Travassos;1.3;Tradicional;80% ON - 0% PN;53,65% ON - 84,66% PN - 74,05% Total
-PTBL3;Portobello;3.6;Novo Mercado;100% ON;40,48% ON
-OPCT3;Oceanpact;2.4;Novo Mercado;100% ON;25,22% ON
-BMOB3;Bemobi;3.3;Novo Mercado;100% ON;46,50% ON
-MATD3;Hospital Mater Dei;3.1;Novo Mercado;100% ON;16,24% ON
-CLSA3;ClearSale;1.7;Novo Mercado;100% ON;29,84% ON
-ROMI3;Indústrias Romi;3.9;Novo Mercado;100% ON;53,54% ON
-PINE4;Banco Pine;2.6;Nível 2;100% ON - 100% PN;0,02% ON - 64,27% PN - 30,54% Total
-TRIS3;Trisul;3.1;Novo Mercado;100% ON;38,51% ON
-DASA3;Dasa;1.2;Novo Mercado;100% ON;12,38% ON
-PRNR3;Priner;3.1;Novo Mercado;100% ON;57,09% ON
-WIZC3;Wiz;3.4;Novo Mercado;100% ON;47,12% ON
-DESK3;Desktop;3.1;Novo Mercado;100% ON;28,08% ON
-LOGN3;Log-in;3.4;Novo Mercado;100% ON;10,18% ON
-HBRE3;HBR Realty;2.5;Novo Mercado;100% ON;47,27% ON
-MBLY3;Mobly;1.3;Novo Mercado;100% ON;22,05% ON
-SHUL4;Schulz;3.9;Tradicional;80% ON - 0% PN;0,07% ON - 41,23% PN - 23,65% Total
-CSED3;Cruzeiro do Sul Educacional;3.6;Novo Mercado;100% ON;12,31% ON
-HBOR3;Helbor;2.5;Novo Mercado;100% ON;49,04% ON
-MEAL3;International Meal;2.9;Novo Mercado;100% ON;54,12% ON
-ESPA3;Espaçolaser;1.7;Novo Mercado;100% ON;37,43% ON
-DEXP3;Dexxos;3.5;Nível 1;100% ON - 100% PN;44,27% ON - 49,86% PN - 44,61% Total
-TFCO4;Track Field;3.7;Nível 2;100% PN;42,06% PN - 3,19% Total
-ETER3;Eternit;3.2;Novo Mercado;100% ON;60,38% ON
-PDGR3;PDG Realty;1;Novo Mercado;100% ON;94,59% ON
-BRIT3;Brisanet;3.7;Novo Mercado;100% ON;20,51% ON
-PFRM3;Profarma;3.1;Novo Mercado;100% ON;22,88% ON
-AURA33;Aura Minerals;3.2;Tradicional;80% ON;
-SYNE3;SYN;3;Novo Mercado;100% ON;34,20% ON
-VIVR3;Viver;1;Novo Mercado;100% ON;65,89% ON
-ENJU3;Enjoei;1.6;Novo Mercado;100% ON;45,46% ON
-CSUD3;CSU;4.2;Novo Mercado;100% ON;35,74% ON
-EUCA4;Eucatex;2.7;Nível 1;80% ON - 0% PN;1,90% ON - 52,17% PN - 40,04% Total
-APER3;Alper Seguros;2;Tradicional;100% ON;42,42% ON
-ELMD3;Eletromidia;2.6;Novo Mercado;100% ON;25,20% ON
-LAND3;Terra Santa;3.8;Novo Mercado;100% ON;23,43% ON
-AMAR3;Lojas Marisa;1.5;Novo Mercado;100% ON;46,14% ON
+Ticker;Nome da Empresa;Nota dos Usuários;Num. de Votos;Segmento de Listagem;Tag Along;Free Float;Listagem CVM;Fundação
+VALE3;Vale;4.3;102;Novo Mercado;100% ON;76,48% ON;1970;1943
+PETR4;Petrobras;3.7;68;Nível 2;100% ON - 100% PN;44,10% ON - 71,31% PN - 55,78% Total;1977;1953
+ITUB4;Banco Itaú;4.9;157;Nível 1;80% ON - 80% PN;9,08% ON - 87,46% PN - 47,82% Total;2002;1943
+BBDC4;Banco Bradesco;4.2;124;Nível 1;100% ON - 80% PN;28,49% ON - 97,72% PN - 63,05% Total;1977;1943
+BBAS3;Banco do Brasil;4.7;122;Novo Mercado;100% ON;49,59% ON;1977;1808
+B3SA3;B3;4.6;136;Novo Mercado;100% ON;72,14% ON;2008;2007
+PRIO3;PRIO;4.7;169;Novo Mercado;100% ON;83,24% ON;2010;2008
+RENT3;Localiza;4.3;55;Novo Mercado;100% ON;79,91% ON;2005;1973
+MGLU3;Magazine Luiza;2.9;76;Novo Mercado;100% ON;42,60% ON;2011;1957
+HAPV3;Hapvida;2.4;44;Novo Mercado;100% ON;58,36% ON;2018;2001
+BPAC11;BTG Pactual;4.3;38;Nível 2;100% ON - 100% PN - 100% UNIT;15,88% ON - 54,00% PN - 30,00% Total;2011;1979
+EQTL3;Equatorial;4.6;145;Novo Mercado;100% ON;72,34% ON;2006;1999
+ELET3;Eletrobras;2.5;30;Nível 1;80% ON - 0% PN;44,10% ON - 61,54% PN - 46,22% Total;1971;1962
+ABEV3;Ambev;4.4;130;Tradicional;80% ON;27,98% ON;2013;2005
+RAIL3;Rumo Log;3.3;22;Novo Mercado;100% ON;53,14% ON;1998;1997
+LREN3;Lojas Renner;4.2;137;Novo Mercado;100% ON;89,13% ON;1977;1965
+SBSP3;Sabesp;3.7;14;Novo Mercado;100% ON;49,74% ON;1994;1973
+MRVE3;MRV Engenharia;2.2;17;Novo Mercado;100% ON;62,65% ON;2007;2006
+AZUL4;Azul;1.4;11;Nível 2;100% PN;80,62% PN - 21,40% Total;2017;2008
+ITSA4;Itaúsa;4.3;62;Nível 1;80% ON - 80% PN;9,56% ON - 74,41% PN - 52,12% Total;1977;1966
+GGBR4;Gerdau;4;30;Nível 1;100% ON - 100% PN;2,45% ON - 89,22% PN - 59,57% Total;1980;1961
+RADL3;RaiaDrogasil;4.8;134;Novo Mercado;100% ON;74,06% ON;1977;1935
+SUZB3;Suzano Papel;4.1;35;Novo Mercado;100% ON;54,19% ON;1992;1987
+WEGE3;Weg;4.9;326;Novo Mercado;100% ON;35,37% ON;1982;1961
+VBBR3;Vibra Energia;3.2;21;Novo Mercado;100% ON;71,82% ON;2017;1971
+CIEL3;Cielo;3.5;29;Novo Mercado;100% ON;40,38% ON;2009;1995
+RRRP3;3R Petroleum;3.2;32;Novo Mercado;100% ON;70,26% ON;2020;2010
+BBSE3;BB Seguridade;4.4;67;Novo Mercado;100% ON;33,59% ON;2013;2012
+ARZZ3;Arezzo;4.7;137;Novo Mercado;100% ON;54,88% ON;2011;1972
+ENGI11;Energisa;3.4;10;Nível 2;100% ON - 100% PN - 100% UNIT;22,39% ON - 57,05% PN - 43,44% Total;1995;1995
+NTCO3;Natura&Co;1.8;17;Novo Mercado;100% ON;50,94% ON;2019;2019
+EMBR3;Embraer;2.8;13;Novo Mercado;100% ON;73,67% ON;2006;2005
+ASAI3;Assaí;3.9;31;Novo Mercado;100% ON;78,41% ON;2020;2003
+CMIG4;Cemig;3.9;25;Nível 1;80% ON - 0% PN;5,91% ON - 77,12% PN - 53,31% Total;1971;1952
+UGPA3;Ultrapar;3.6;15;Novo Mercado;100% ON;54,88% ON;1999;1953
+CPLE6;Copel;3.8;26;Nível 2;100% ON - 100% PN - 100% UNIT;57,50% ON - 55,72% PN - 56,50% Total;1994;1954
+SOMA3;Grupo Soma;4.4;80;Novo Mercado;100% ON;46,71% ON;2020;2008
+JBSS3;JBS;3.5;22;Novo Mercado;100% ON;30,36% ON;2007;1998
+CSAN3;Cosan;3.9;53;Novo Mercado;100% ON;63,73% ON;2005;1966
+CYRE3;Cyrela Realty;3.3;9;Novo Mercado;100% ON;56,50% ON;1994;1993
+CSNA3;CSN;2.8;9;Tradicional;80% ON;45,31% ON;1943;1941
+USIM5;Usiminas;2.6;12;Nível 1;80% ON - 0% PN;7,71% ON - 69,04% PN - 34,52% Total;1994;1954
+TOTS3;Totvs;4.4;63;Novo Mercado;100% ON;67,66% ON;2006;1983
+ALOS3;Allos;3.5;22;Novo Mercado;100% ON;70,59% ON;2011;2003
+BRFS3;BRF;2.2;12;Novo Mercado;100% ON;31,51% ON;1997;1934
+VIVT3;Telefônica Brasil;4.2;67;Tradicional;80% ON - 0% PN;21,41% ON;1998;1998
+TIMS3;TIM;4.1;33;Novo Mercado;100% ON;33,40% ON;2020;1998
+RDOR3;Rede D'Or;3.2;29;Novo Mercado;100% ON;24,93% ON;2019;2003
+CRFB3;Carrefour;3.3;19;Novo Mercado;100% ON;25,21% ON;2017;1980
+HYPE3;Hypera Pharma;4.7;133;Novo Mercado;100% ON;48,02% ON;2008;2001
+MULT3;Multiplan;4.7;95;Nível 2;100% ON - 100% PN;40,00% ON;2007;2005
+COGN3;Cogna;2.6;26;Novo Mercado;100% ON;75,57% ON;1998;1998
+ENEV3;Eneva;3.3;19;Novo Mercado;100% ON;36,53% ON;2007;2001
+GOAU4;Metalúrgica Gerdau;4.1;19;Nível 1;100% ON - 100% PN;12,46% ON - 74,23% PN - 52,39% Total;1968;1901
+VIVA3;Vivara;4.7;134;Novo Mercado;100% ON;54,59% ON;2019;2019
+CCRO3;CCR;3.3;14;Novo Mercado;100% ON;39,26% ON;2000;1998
+GFSA3;Gafisa;1.6;9;Novo Mercado;100% ON;55,12% ON;1997;1996
+GOLL4;Gol;1.1;15;Nível 2;100% PN;51,85% PN - 5,46% Total;2004;2004
+BEEF3;Minerva;3.7;17;Novo Mercado;100% ON;38,55% ON;2007;1992
+BRAP4;Bradespar;3.4;11;Nível 1;100% ON - 80% PN;22,08% ON - 67,69% PN - 51,68% Total;2000;2000
+KLBN11;Klabin;4.2;86;Nível 2;100% ON - 100% PN - 100% UNIT;36,08% ON - 73,65% PN - 59,73% Total;1997;1978
+IRBR3;IRB Brasil;1.6;56;Novo Mercado;100% ON;67,06% ON;2017;1939
+VAMO3;Vamos;4.5;115;Novo Mercado;100% ON;39,23% ON;2019;2015
+YDUQ3;Yduqs;3.5;27;Novo Mercado;100% ON;64,33% ON;2007;2007
+BRKM5;Braskem;1.5;17;Nível 1;80% ON - 0% PN;2,86% ON - 33,94% PN - 16,33% Total;1978;1972
+CVCB3;CVC;1.5;20;Novo Mercado;100% ON;76,55% ON;2013;2009
+CPFE3;CPFL Energia;4.4;56;Novo Mercado;100% ON;16,29% ON;2000;1998
+SMTO3;São Martinho;3.9;35;Novo Mercado;100% ON;44,10% ON;2007;1943
+EGIE3;Engie;4.8;208;Novo Mercado;100% ON;21,43% ON;1998;1998
+SANB11;Santander;3.8;33;Tradicional;100% ON - 100% PN - 100% UNIT;9,10% ON - 10,20% PN - 9,64% Total;2007;1985
+IGTI11;Iguatemi;2.4;9;Nível 1;100% ON - 100% PN - 100% UNIT;26,03% ON - 76,52% PN - 44,15% Total;1946;1946
+RECV3;PetroReconcavo;3.8;21;Novo Mercado;100% ON;43,43% ON;2021;1999
+TRPL4;Trans Paulista;3.3;43;Nível 1;80% ON - 0% PN;0,77% ON - 46,24% PN - 28,44% Total;1999;1999
+POMO4;Marcopolo;3.5;14;Nível 2;100% ON - 80% PN;18,63% ON - 77,50% PN - 56,26% Total;1977;1949
+LWSA3;Locaweb;3.2;16;Novo Mercado;100% ON;51,84% ON;2020;1997
+CXSE3;Caixa Seguridade;4.1;46;Novo Mercado;100% ON;17,25% ON;2015;2015
+MRFG3;Marfrig;2.9;17;Novo Mercado;100% ON;35,85% ON;2007;2000
+AURE3;Auren;3.9;23;Novo Mercado;100% ON;30,20% ON;2022;1
+PETZ3;Petz;3.6;94;Novo Mercado;100% ON;64,49% ON;2020;2013
+TAEE11;Taesa;4.1;101;Nível 2;100% ON - 100% PN - 100% UNIT;37,00% ON - 93,55% PN - 61,23% Total;2006;2006
+SLCE3;SLC Agrícola;4.5;78;Novo Mercado;100% ON;43,86% ON;2007;1977
+MOVI3;Movida;4;60;Novo Mercado;100% ON;34,24% ON;2016;2014
+CMIN3;CSN Mineração;3.9;25;Nível 2;100% ON;8,72% ON;2021;2007
+RAIZ4;Raízen;3.1;20;Nível 2;100% ON - 100% PN;55,92% PN - 7,34% Total;2021;1961
+SMFT3;Smart Fit;3.3;36;Novo Mercado;100% ON;31,37% ON;2017;2005
+BHIA3;Casas Bahia;1.8;32;Novo Mercado;100% ON;79,56% ON;1981;1946
+ENAT3;Enauta;3.6;18;Novo Mercado;100% ON;36,13% ON;2011;2010
+ALPA4;Alpargatas;2.2;14;Nível 1;80% ON - 0% PN;3,17% ON - 37,45% PN - 20,41% Total;1977;1907
+FLRY3;Fleury;4.6;173;Novo Mercado;100% ON;44,50% ON;2009;1964
+TEND3;Tenda;1.3;11;Novo Mercado;100% ON;62,73% ON;2007;1993
+PSSA3;Porto;4.7;142;Novo Mercado;100% ON;28,34% ON;1997;1997
+STBP3;Santos Brasil;3.5;18;Novo Mercado;100% ON;47,09% ON;1998;1998
+PCAR3;GPA;2.4;18;Novo Mercado;100% ON;48,53% ON;1995;1981
+GMAT3;Grupo Mateus;4.2;51;Novo Mercado;100% ON;15,84% ON;2020;2016
+DIRR3;Direcional;4.1;22;Novo Mercado;100% ON;62,58% ON;2008;1981
+GGPS3;Grupo GPS;3.8;23;Novo Mercado;100% ON;58,54% ON;2021;2007
+AESB3;AES Brasil;3.1;31;Novo Mercado;100% ON;40,68% ON;2021;2020
+CURY3;Cury Construtora;4;22;Novo Mercado;100% ON;37,82% ON;2020;2007
+EZTC3;Eztec;4.2;79;Novo Mercado;100% ON;47,62% ON;2007;2006
+CSMG3;Copasa;4.1;18;Novo Mercado;100% ON;49,69% ON;2003;1963
+ODPV3;Odontoprev;4.5;69;Novo Mercado;100% ON;41,80% ON;2006;1987
+ANIM3;Anima;2;8;Novo Mercado;100% ON;63,70% ON;2013;2007
+SAPR11;Sanepar;4.3;93;Nível 2;100% ON - 100% PN - 100% UNIT;37,74% ON - 94,89% PN - 75,84% Total;2000;1963
+SBFG3;Grupo SBF;3.5;19;Novo Mercado;100% ON;40,26% ON;2019;2011
+ONCO3;Oncoclínicas;3.1;12;Novo Mercado;100% ON;47,42% ON;2021;2010
+SIMH3;Simpar;4.1;35;Novo Mercado;100% ON;34,97% ON;2020;2005
+INTB3;Intelbras;4.1;48;Novo Mercado;100% ON;27,38% ON;2021;1974
+ECOR3;Ecorodovias;2.5;2;Novo Mercado;100% ON;32,95% ON;2003;2000
+MDIA3;M.Dias Branco;3.4;97;Novo Mercado;100% ON;31,96% ON;2006;1951
+RAPT4;Randoncorp;4.1;40;Nível 1;80% ON - 80% PN;9,44% ON - 83,08% PN - 57,03% Total;1993;1992
+DXCO3;Dexco;3.2;13;Novo Mercado;100% ON;33,89% ON;2007;1962
+CEAB3;C&A;3.1;10;Novo Mercado;100% ON;33,83% ON;2019;1981
+NEOE3;Neoenergia;3.6;34;Novo Mercado;100% ON;16,08% ON;1996;1996
+LEVE3;Mahle Metal Leve;4.5;86;Novo Mercado;100% ON;;1977;1950
+BPAN4;Banco Pan;3.1;13;Nível 1;100% PN;53,27% PN - 25,76% Total;2007;1966
+CBAV3;CBA;2.8;16;Novo Mercado;100% ON;32,12% ON;2021;1941
+ALUP11;Alupar;4.1;53;Nível 2;100% ON - 100% PN - 100% UNIT;17,53% ON - 74,33% PN - 35,76% Total;2008;2006
+BRSR6;Banrisul;3.4;19;Nível 1;100% ON - 100% PN;1,87% ON - 99,46% PN - 50,53% Total;1977;1928
+QUAL3;Qualicorp;2.4;14;Novo Mercado;100% ON;38,08% ON;2011;2010
+TTEN3;3tentos;4.3;64;Novo Mercado;100% ON;22,89% ON;2021;2011
+ABCB4;Banco ABC;3.8;30;Nível 2;100% PN;61,69% PN - 30,73% Total;2007;1983
+AMER3;Americanas;1.2;30;Novo Mercado;100% ON;69,88% ON;2007;2006
+VVEO3;Viveo;2.9;11;Novo Mercado;100% ON;37,50% ON;2021;2010
+CASH3;Méliuz;1.4;30;Novo Mercado;100% ON;79,94% ON;2020;2011
+LJQQ3;Lojas Quero-Quero;2.9;29;Novo Mercado;100% ON;53,59% ON;2020;1967
+TUPY3;Tupy;4;33;Novo Mercado;100% ON;36,86% ON;1966;1938
+RCSL3;Recrusul;1;3;Tradicional;80% ON - 80% PN;14,74% ON - 84,73% PN - 61,28% Total;1985;1954
+JHSF3;JHSF;3.2;20;Novo Mercado;100% ON;37,00% ON;2007;2006
+VULC3;Vulcabras;3.8;34;Novo Mercado;100% ON;19,76% ON;1977;1952
+HBSA3;Hidrovias do Brasil;2.7;14;Novo Mercado;100% ON;50,68% ON;2011;2010
+ORVR3;Orizon;2.4;9;Novo Mercado;100% ON;38,33% ON;2021;2009
+MYPK3;Iochpe-Maxion;2.9;21;Novo Mercado;100% ON;64,25% ON;1984;1940
+AMBP3;Ambipar;3.4;37;Novo Mercado;100% ON;33,34% ON;2020;2010
+IFCM3;Infracommerce;1.6;14;Novo Mercado;100% ON;68,35% ON;2021;2020
+MTRE3;Mitre Realty;3.4;21;Novo Mercado;100% ON;49,80% ON;2020;2005
+MILS3;Mills;4.2;49;Novo Mercado;100% ON;36,97% ON;2010;1980
+OIBR3;Oi;1.2;26;Nível 1;80% ON - 0% PN;89,99% ON - 88,45% PN - 89,95% Total;1980;1963
+UNIP6;Unipar;3.7;29;Tradicional;80% ON - 0% PN;14,66% ON - 65,62% PN - 47,81% Total;1971;1969
+SEQL3;Sequoia;1.7;12;Novo Mercado;100% ON;79,95% ON;2020;1996
+PLPL3;Plano&Plano;3.7;9;Novo Mercado;100% ON;26,79% ON;2020;2016
+KEPL3;Kepler;4;48;Novo Mercado;100% ON;57,43% ON;1980;1936
+VLID3;Valid;3.6;20;Novo Mercado;100% ON;52,65% ON;2006;1957
+GUAR3;Guararapes;3.1;15;Novo Mercado;100% ON;17,25% ON;1958;1956
+JSLG3;JSL;3.5;11;Novo Mercado;100% ON;24,49% ON;2010;1969
+RANI3;Irani;4.3;75;Novo Mercado;100% ON;42,35% ON;1977;1941
+SRNA3;Omega Energia;1.9;9;Novo Mercado;100% ON;26,95% ON;2021;2021
+ARML3;Armac;3.9;14;Novo Mercado;100% ON;19,62% ON;2021;1994
+AGRO3;BrasilAgro;4.4;75;Novo Mercado;100% ON;45,21% ON;2006;2005
+GRND3;Grendene;3.4;61;Novo Mercado;100% ON;22,50% ON;2004;1971
+POSI3;Positivo;3.6;14;Novo Mercado;100% ON;51,74% ON;2006;1989
+LIGT3;Light;1.1;14;Novo Mercado;100% ON;39,78% ON;2005;1999
+ZAMP3;Burger King;1.9;19;Tradicional;100% ON;30,89% ON;2017;2011
+EVEN3;Even;3;7;Novo Mercado;100% ON;37,48% ON;2007;1980
+MLAS3;Multilaser;2;20;Novo Mercado;100% ON;23,78% ON;2021;1988
+FESA4;Ferbasa;3.5;27;Nível 1;80% ON - 0% PN;1,05% ON - 55,75% PN - 37,52% Total;1961;1961
+SEER3;SER Educacional;3.5;8;Novo Mercado;100% ON;22,27% ON;2013;2002
+CAML3;Camil;3.3;33;Novo Mercado;100% ON;28,65% ON;2017;1990
+PGMN3;Pague Menos;3.1;12;Novo Mercado;100% ON;15,51% ON;2011;1981
+MDNE3;Moura Dubeux;3.7;15;Novo Mercado;100% ON;39,63% ON;2007;1987
+TGMA3;Tegma;3.5;10;Novo Mercado;100% ON;27,15% ON;2007;1998
+BMGB4;Banco BMG;2;13;Nível 1;100% ON - 100% PN;2,13% ON - 55,72% PN - 21,47% Total;2018;1964
+LOGG3;Log CP;3.4;17;Novo Mercado;100% ON;29,51% ON;2013;2007
+PORT3;Wilson Sons;3.4;10;Novo Mercado;100% ON;21,52% ON;2021;1971
+JALL3;Jalles Machado;4.1;33;Novo Mercado;100% ON;33,91% ON;2021;1980
+PNVL3;Grupo Panvel;4.3;56;Novo Mercado;100% ON;47,73% ON;1977;1920
+BLAU3;Blau Farmacêutica;3.9;43;Novo Mercado;100% ON;16,63% ON;2019;1987
+FRAS3;Frasle Mobility;4.3;55;Nível 1;80% ON;12,45% ON;1977;1954
+VITT3;Vittia;3.8;34;Novo Mercado;100% ON;33,78% ON;2021;1971
+AERI3;Aeris;2.1;14;Novo Mercado;100% ON;29,10% ON;2020;2010
+BRBI11;BR Partners;3.7;14;Nível 2;100% ON - 100% PN;19,41% ON - 68,04% PN - 37,08% Total;2021;2009
+TASA4;Taurus Armas;3.7;53;Nível 2;100% ON - 100% PN;14,25% ON - 78,51% PN - 54,93% Total;1982;1939
+LAVV3;Lavvi;4.3;29;Novo Mercado;100% ON;21,94% ON;2020;2016
+AZEV4;Azevedo e Travassos;1.3;9;Tradicional;80% ON - 0% PN;53,65% ON - 84,66% PN - 74,05% Total;1984;1922
+PTBL3;Portobello;3.6;21;Novo Mercado;100% ON;40,48% ON;1991;1977
+OPCT3;Oceanpact;2.4;21;Novo Mercado;100% ON;25,22% ON;2021;2007
+BMOB3;Bemobi;3.3;24;Novo Mercado;100% ON;46,50% ON;2021;2007
+MATD3;Hospital Mater Dei;3.1;9;Novo Mercado;100% ON;16,24% ON;2021;1973
+CLSA3;ClearSale;1.7;14;Novo Mercado;100% ON;29,84% ON;2021;2000
+ROMI3;Indústrias Romi;3.9;31;Novo Mercado;100% ON;53,54% ON;1938;1938
+TRIS3;Trisul;3.1;23;Novo Mercado;100% ON;38,51% ON;2007;2007
+DASA3;Dasa;1.2;9;Novo Mercado;100% ON;12,38% ON;2004;1966
+PRNR3;Priner;3.1;18;Novo Mercado;100% ON;57,09% ON;2017;2013
+WIZC3;Wiz;3.4;32;Novo Mercado;100% ON;47,12% ON;2015;1973
+DESK3;Desktop;3.1;9;Novo Mercado;100% ON;28,08% ON;2021;2006
+LOGN3;Log-in;3.4;9;Novo Mercado;100% ON;10,18% ON;2007;1973
+HBRE3;HBR Realty;3;1;Novo Mercado;100% ON;47,27% ON;2020;2011
+MBLY3;Mobly;1.3;3;Novo Mercado;100% ON;22,05% ON;2021;2018
+SHUL4;Schulz;3.9;31;Tradicional;80% ON - 0% PN;0,07% ON - 41,23% PN - 23,65% Total;1994;1963
+CSED3;Cruzeiro do Sul Educacional;3.6;9;Novo Mercado;100% ON;12,31% ON;2021;1970
+HBOR3;Helbor;2.5;4;Novo Mercado;100% ON;49,04% ON;2007;1977
+MEAL3;International Meal;2.9;7;Novo Mercado;100% ON;54,12% ON;2015;1965
+ESPA3;Espaçolaser;1.7;21;Novo Mercado;100% ON;37,43% ON;2021;2016
+DEXP3;Dexxos;3.5;13;Nível 1;100% ON - 100% PN;44,27% ON - 49,86% PN - 44,61% Total;1997;1997
+TFCO4;Track Field;3.7;25;Nível 2;100% PN;42,06% PN - 3,19% Total;2020;1988
+ETER3;Eternit;3.2;12;Novo Mercado;100% ON;60,38% ON;1970;1940
+PDGR3;PDG Realty;1;3;Novo Mercado;100% ON;94,59% ON;2007;1998
+BRIT3;Brisanet;3.7;16;Novo Mercado;100% ON;20,51% ON;2021;2014
+PFRM3;Profarma;3.1;14;Novo Mercado;100% ON;22,88% ON;2006;1961
+AMAR3;Lojas Marisa;1.5;11;Novo Mercado;100% ON;46,14% ON;2010;1959
+AURA33;Aura Minerals;3.2;6;Tradicional;80% ON;;2020;1946
+SYNE3;SYN;3;3;Novo Mercado;100% ON;34,20% ON;2007;2007
+VIVR3;Viver;1;2;Novo Mercado;100% ON;65,89% ON;2007;1992
+ENJU3;Enjoei;1.6;17;Novo Mercado;100% ON;45,46% ON;2020;2012
+CSUD3;CSU;4.2;68;Novo Mercado;100% ON;35,74% ON;2006;1997
+EUCA4;Eucatex;2.7;11;Nível 1;80% ON - 0% PN;1,90% ON - 52,17% PN - 40,04% Total;1969;1951
+APER3;Alper Seguros;2;1;Tradicional;100% ON;42,42% ON;2010;2010
+ELMD3;Eletromidia;2.6;8;Novo Mercado;100% ON;25,20% ON;2021;2013
+LAND3;Terra Santa;3.8;4;Novo Mercado;100% ON;23,43% ON;2021;2021
+SOJA3;Boa Safra;4;39;Novo Mercado;100% ON;30,16% ON;2021;2009
