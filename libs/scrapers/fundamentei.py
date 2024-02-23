@@ -28,8 +28,11 @@ class StockInfosScraper(scraper.Scraper):
         # parse HTML data
         tree = html.fromstring(html_data.text)
 
-        # get companies name
+        # get company name
         company_name = tree.xpath("//h1[contains(.,'•')]")[0].text
+
+        # company sector
+        company_sector = tree.xpath("//h1[contains(.,'•')]/../../../div[2]/a")[0].text
 
         # get users score info
         users_score = tree.xpath("//h3[contains(.,' / ')]")[0].text
@@ -59,6 +62,7 @@ class StockInfosScraper(scraper.Scraper):
         return {
             "Ticker": self.ticker,
             "Nome da Empresa": company_name,
+            "Setor de Atuação": company_sector,
             "Nota dos Usuários": users_score,
             "Num. de Votos": num_of_votes,
             "Segmento de Listagem": b3_segment,

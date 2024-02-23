@@ -30,4 +30,6 @@ Script de leitura de dados das empresas disponíveis no site http://fundamentei.
 
 ### Stocks Filter and Pre Analysis
 
-Script faz leitura dos arquivos resultantes dos scripts 'Fundamentus', 'Status Invest' e 'Fundamentei', realizando filtros e pré-analises automatizadas baseadas em parametros.
+v1 - Script faz leitura dos arquivos resultantes dos scripts 'Fundamentus', 'Status Invest' e 'Fundamentei', realizando filtros e pré-analises automatizadas baseadas em parametros.
+
+v2 - Script faz leitura dos dados diretamente dos sites 'Status Invest' e 'Fundamentei', realizando pré-filtros e entregando um arquivo somente com as melhores, a serem então filtradas manualmente (filtrando somente as melhores por cada setor, ou confirme o investidor desejar frente aos indicadores apresentados).
